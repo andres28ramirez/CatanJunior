@@ -1,0 +1,357 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{96A99D41-D1CC-4095-A05F-3B1F6D6F4F02}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Catan_Junior</RootNamespace>
+    <AssemblyName>Catan Junior</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Icono.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Carga.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Carga.Designer.cs">
+      <DependentUpon>Carga.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hexagono.cs" />
+    <Compile Include="Jugador.cs" />
+    <Compile Include="Nodo_Carta.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tablero 1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tablero 1.Designer.cs">
+      <DependentUpon>Tablero 1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tablero 2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tablero 2.Designer.cs">
+      <DependentUpon>Tablero 2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tablero.cs" />
+    <EmbeddedResource Include="Carga.resx">
+      <DependentUpon>Carga.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Tablero 1.resx">
+      <DependentUpon>Tablero 1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tablero 2.resx">
+      <DependentUpon>Tablero 2.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Inicio.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Nueva Partida.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Instrucciones.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Salir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Barco Amarillo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Barco Azul.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Barco Morado.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Barco Rojo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cargar Partida Brillo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cargar Partida.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Carta Cocaino.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Carta Estructura.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Carta malandro.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Carta Recurso.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fortaleza Amarilla.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fortaleza Azul.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fortaleza Morada.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fortaleza Roja.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Instrucciones Brillo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Isla Madera2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Isla Oro.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Isla Oveja.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Isla Piña.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Isla Sable.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Nueva Partida Brillo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Precio 1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Precio 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Precio 3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Salir Brillo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Salvavidas Renderizado.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2 Jugadores.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3 Jugadores.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4 Jugadores.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2 Jugadores Brillo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3 Jugadores Brillo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4 Jugadores Brillo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Atras.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Atras Brillo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cocaino.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mapa 2J.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Barco Neutro.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fortaleza neutro.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pirata Rapaz.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Recurso Oro.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RecursoMadera.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Recurso Oveja.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Recurso Piña.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Recurso Sable.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Jugador Morado.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Construir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Jugador Rojo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Trueque.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Timon1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Precio 11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mapa 2J 3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Trueque render 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Timon Render.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Jugador Morado1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Jugador Morado1 Brillo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Jugador Rojo1 Brillo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Jugador Rojo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Banco Render Brillo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Banco render.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lanzar Dados.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Icono.ico" />
+    <None Include="Resources\mapa grande 222.jpg" />
+    <None Include="Resources\Jugador Azul 1.png" />
+    <None Include="Resources\Jugador Azul 1 Brillo.png" />
+    <None Include="Resources\Jugador Amarillo2.png" />
+    <None Include="Resources\Jugador Amarillo2 Brillo.png" />
+    <None Include="Resources\mapa grande 22.jpg" />
+    <None Include="Resources\Mapa 2 grande.jpg" />
+    <None Include="Resources\Musica de Fondo1.wav" />
+    <None Include="Resources\Musica de Fondo.mp3" />
+    <None Include="Resources\RecursoMadera Brillante.png" />
+    <None Include="Resources\Recurso Sable Brillo.png" />
+    <None Include="Resources\Recurso Piña Brillo.png" />
+    <None Include="Resources\Recurso Oveja Brillo.png" />
+    <None Include="Resources\Recurso Oro Brillo.png" />
+    <None Include="Resources\D6.png" />
+    <None Include="Resources\D5.png" />
+    <None Include="Resources\D4.png" />
+    <None Include="Resources\D3.png" />
+    <None Include="Resources\D2.png" />
+    <None Include="Resources\D1.png" />
+    <None Include="Resources\Madera.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

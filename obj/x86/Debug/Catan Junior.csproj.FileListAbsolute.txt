@@ -1,0 +1,62 @@
+C:\Users\miguel\Documents\Visual Studio 2010\Projects\Catan Junior\Catan Junior\bin\Debug\Catan Junior.exe
+C:\Users\miguel\Documents\Visual Studio 2010\Projects\Catan Junior\Catan Junior\bin\Debug\Catan Junior.pdb
+C:\Users\miguel\Documents\Visual Studio 2010\Projects\Catan Junior\Catan Junior\obj\x86\Debug\Catan_Junior.Catan.resources
+C:\Users\miguel\Documents\Visual Studio 2010\Projects\Catan Junior\Catan Junior\obj\x86\Debug\Catan_Junior.Properties.Resources.resources
+C:\Users\miguel\Documents\Visual Studio 2010\Projects\Catan Junior\Catan Junior\obj\x86\Debug\Catan Junior.csproj.GenerateResource.Cache
+C:\Users\miguel\Documents\Visual Studio 2010\Projects\Catan Junior\Catan Junior\obj\x86\Debug\Catan Junior.exe
+C:\Users\miguel\Documents\Visual Studio 2010\Projects\Catan Junior\Catan Junior\obj\x86\Debug\Catan Junior.pdb
+C:\Users\miguel\Documents\Visual Studio 2010\Projects\Catan Junior\Catan Junior\obj\x86\Debug\Catan_Junior.Carga.resources
+C:\Users\miguel\Documents\Visual Studio 2010\Projects\Catan Junior\Catan Junior\obj\x86\Debug\Catan_Junior.Tablero_1.resources
+D:\Catan\Catan Junior\Catan Junior\obj\x86\Debug\Catan Junior.exe
+D:\Catan\Catan Junior\Catan Junior\obj\x86\Debug\Catan Junior.pdb
+D:\Catan\Catan Junior\Catan Junior\bin\Debug\Catan Junior.exe
+D:\Catan\Catan Junior\Catan Junior\bin\Debug\Catan Junior.pdb
+D:\Catan\Catan Junior\Catan Junior\obj\x86\Debug\Catan_Junior.Carga.resources
+D:\Catan\Catan Junior\Catan Junior\obj\x86\Debug\Catan_Junior.Catan.resources
+D:\Catan\Catan Junior\Catan Junior\obj\x86\Debug\Catan_Junior.Properties.Resources.resources
+D:\Catan\Catan Junior\Catan Junior\obj\x86\Debug\Catan_Junior.Tablero_1.resources
+D:\Catan\Catan Junior\Catan Junior\obj\x86\Debug\Catan Junior.csproj.GenerateResource.Cache
+C:\Users\Andres Ramirez\Documents\Universidad\UNIMAR\TRIMESTRES\5to Trimestre\Programacion II\Proyecto Final\Catan\Catan Junior\Catan Junior\obj\x86\Debug\Catan Junior.exe
+C:\Users\Andres Ramirez\Documents\Universidad\UNIMAR\TRIMESTRES\5to Trimestre\Programacion II\Proyecto Final\Catan\Catan Junior\Catan Junior\obj\x86\Debug\Catan Junior.pdb
+C:\Users\Andres Ramirez\Documents\Universidad\UNIMAR\TRIMESTRES\5to Trimestre\Programacion II\Proyecto Final\Catan\Catan Junior\Catan Junior\obj\x86\Debug\Catan_Junior.Carga.resources
+C:\Users\Andres Ramirez\Documents\Universidad\UNIMAR\TRIMESTRES\5to Trimestre\Programacion II\Proyecto Final\Catan\Catan Junior\Catan Junior\obj\x86\Debug\Catan_Junior.Catan.resources
+C:\Users\Andres Ramirez\Documents\Universidad\UNIMAR\TRIMESTRES\5to Trimestre\Programacion II\Proyecto Final\Catan\Catan Junior\Catan Junior\obj\x86\Debug\Catan_Junior.Properties.Resources.resources
+C:\Users\Andres Ramirez\Documents\Universidad\UNIMAR\TRIMESTRES\5to Trimestre\Programacion II\Proyecto Final\Catan\Catan Junior\Catan Junior\obj\x86\Debug\Catan_Junior.Tablero_1.resources
+C:\Users\Andres Ramirez\Documents\Universidad\UNIMAR\TRIMESTRES\5to Trimestre\Programacion II\Proyecto Final\Catan\Catan Junior\Catan Junior\obj\x86\Debug\Catan Junior.csproj.GenerateResource.Cache
+C:\Users\Andres Ramirez\Documents\Universidad\UNIMAR\TRIMESTRES\5to Trimestre\Programacion II\Proyecto Final\Catan\Catan Junior\Catan Junior\bin\Debug\Catan Junior.exe
+C:\Users\Andres Ramirez\Documents\Universidad\UNIMAR\TRIMESTRES\5to Trimestre\Programacion II\Proyecto Final\Catan\Catan Junior\Catan Junior\bin\Debug\Catan Junior.pdb
+C:\Users\Andres Ramirez\Documents\Universidad\UNIMAR\TRIMESTRES\5to Trimestre\Programacion II\Proyecto Final\Catan\Catan Junior\Catan Junior\bin\Debug\Interop.WMPLib.dll
+C:\Users\Andres Ramirez\Documents\Universidad\UNIMAR\TRIMESTRES\5to Trimestre\Programacion II\Proyecto Final\Catan\Catan Junior\Catan Junior\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Andres Ramirez\Documents\Universidad\UNIMAR\TRIMESTRES\5to Trimestre\Programacion II\Proyecto Final\Catan\Catan Junior\Catan Junior\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Andres Ramirez\Documents\Universidad\UNIMAR\TRIMESTRES\5to Trimestre\Programacion II\Proyecto Final\Catan\Catan Junior\Catan Junior\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Andres Ramirez\Documents\Universidad\UNIMAR\TRIMESTRES\5to Trimestre\Programacion II\Proyecto Final\Catan\Catan Junior\Catan Junior\obj\x86\Debug\Catan Junior.csproj.ResolveComReference.cache
+C:\Users\miguel\Desktop\Catan\Catan Junior\Catan Junior\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\miguel\Desktop\Catan\Catan Junior\Catan Junior\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\miguel\Desktop\Catan\Catan Junior\Catan Junior\obj\x86\Debug\Catan Junior.csproj.ResolveComReference.cache
+C:\Users\miguel\Desktop\Catan\Catan Junior\Catan Junior\obj\x86\Debug\Catan Junior.exe
+C:\Users\miguel\Desktop\Catan\Catan Junior\Catan Junior\obj\x86\Debug\Catan_Junior.Carga.resources
+C:\Users\miguel\Desktop\Catan\Catan Junior\Catan Junior\obj\x86\Debug\Catan_Junior.Catan.resources
+C:\Users\miguel\Desktop\Catan\Catan Junior\Catan Junior\obj\x86\Debug\Catan_Junior.Properties.Resources.resources
+C:\Users\miguel\Desktop\Catan\Catan Junior\Catan Junior\obj\x86\Debug\Catan_Junior.Tablero_1.resources
+C:\Users\miguel\Desktop\Catan\Catan Junior\Catan Junior\obj\x86\Debug\Catan Junior.csproj.GenerateResource.Cache
+C:\Users\miguel\Desktop\Catan\Catan Junior\Catan Junior\bin\Debug\Catan Junior.exe
+C:\Users\miguel\Desktop\Catan\Catan Junior\Catan Junior\bin\Debug\Catan Junior.pdb
+C:\Users\miguel\Desktop\Catan\Catan Junior\Catan Junior\bin\Debug\Interop.WMPLib.dll
+C:\Users\miguel\Desktop\Catan\Catan Junior\Catan Junior\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\miguel\Desktop\Catan\Catan Junior\Catan Junior\obj\x86\Debug\Catan Junior.pdb
+C:\Users\miguel\Desktop\Catan\Catan Junior\Catan Junior\obj\x86\Debug\Catan_Junior.Tablero_2.resources
+C:\Users\Andres Ramirez\Documents\Universidad\UNIMAR\TRIMESTRES\5to Trimestre\Programacion II\Proyecto Final\Catan Junior\Catan Junior\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Andres Ramirez\Documents\Universidad\UNIMAR\TRIMESTRES\5to Trimestre\Programacion II\Proyecto Final\Catan Junior\Catan Junior\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Andres Ramirez\Documents\Universidad\UNIMAR\TRIMESTRES\5to Trimestre\Programacion II\Proyecto Final\Catan Junior\Catan Junior\obj\x86\Debug\Catan Junior.csproj.ResolveComReference.cache
+C:\Users\Andres Ramirez\Documents\Universidad\UNIMAR\TRIMESTRES\5to Trimestre\Programacion II\Proyecto Final\Catan Junior\Catan Junior\obj\x86\Debug\Catan Junior.exe
+C:\Users\Andres Ramirez\Documents\Universidad\UNIMAR\TRIMESTRES\5to Trimestre\Programacion II\Proyecto Final\Catan Junior\Catan Junior\obj\x86\Debug\Catan Junior.pdb
+C:\Users\Andres Ramirez\Documents\Universidad\UNIMAR\TRIMESTRES\5to Trimestre\Programacion II\Proyecto Final\Catan Junior\Catan Junior\bin\Debug\Catan Junior.exe
+C:\Users\Andres Ramirez\Documents\Universidad\UNIMAR\TRIMESTRES\5to Trimestre\Programacion II\Proyecto Final\Catan Junior\Catan Junior\bin\Debug\Catan Junior.pdb
+C:\Users\Andres Ramirez\Documents\Universidad\UNIMAR\TRIMESTRES\5to Trimestre\Programacion II\Proyecto Final\Catan Junior\Catan Junior\bin\Debug\Interop.WMPLib.dll
+C:\Users\Andres Ramirez\Documents\Universidad\UNIMAR\TRIMESTRES\5to Trimestre\Programacion II\Proyecto Final\Catan Junior\Catan Junior\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Andres Ramirez\Documents\Universidad\UNIMAR\TRIMESTRES\5to Trimestre\Programacion II\Proyecto Final\Catan Junior\Catan Junior\obj\x86\Debug\Catan_Junior.Carga.resources
+C:\Users\Andres Ramirez\Documents\Universidad\UNIMAR\TRIMESTRES\5to Trimestre\Programacion II\Proyecto Final\Catan Junior\Catan Junior\obj\x86\Debug\Catan_Junior.Catan.resources
+C:\Users\Andres Ramirez\Documents\Universidad\UNIMAR\TRIMESTRES\5to Trimestre\Programacion II\Proyecto Final\Catan Junior\Catan Junior\obj\x86\Debug\Catan_Junior.Properties.Resources.resources
+C:\Users\Andres Ramirez\Documents\Universidad\UNIMAR\TRIMESTRES\5to Trimestre\Programacion II\Proyecto Final\Catan Junior\Catan Junior\obj\x86\Debug\Catan_Junior.Tablero_1.resources
+C:\Users\Andres Ramirez\Documents\Universidad\UNIMAR\TRIMESTRES\5to Trimestre\Programacion II\Proyecto Final\Catan Junior\Catan Junior\obj\x86\Debug\Catan_Junior.Tablero_2.resources
+C:\Users\Andres Ramirez\Documents\Universidad\UNIMAR\TRIMESTRES\5to Trimestre\Programacion II\Proyecto Final\Catan Junior\Catan Junior\obj\x86\Debug\Catan Junior.csproj.GenerateResource.Cache
