@@ -6,9 +6,13 @@ Board game, emulated in a program based on C #, it has the modality of 2 to 4 pl
 Very simple to play and hilarious for the whole family. <br>
 This project was carried out as a requirement for the approval of programming 3 at the University of Margarita
 
+## Languages
+
+<strong>C#</strong>
+
 ## Contributing
 
-This project was made with the help of @miguelgil.
+This project was made with the contribution of @miguelgil.
 
 ## Instructions
 
